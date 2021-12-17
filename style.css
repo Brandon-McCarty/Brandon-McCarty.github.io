@@ -1,1 +1,42 @@
+body {
+  background-color: #040243;
+  color: #efefef;
+  font-family: Times New Roman, Georgia, serif;
+  margin: 10% 20%;
+}
 
+.experience {
+  border-top: 2px solid #efefef;
+  border-bottom: 2px solid #efefef;
+  font-weight: bold;
+  text-align: center;
+}
+
+.education {
+  border-top: 2px solid #efefef;
+  border-bottom: 2px solid #efefef;
+  font-weight: bold;
+  text-align: center;
+}
+
+.degone {
+  margin: 0.5px;
+  line-height: 0;
+  padding-top: 10px
+}
+
+.degtwo {
+  margin: 0.5px;
+  line-height: 0;
+  padding-top: 10px
+}
+
+.medication {
+  width: 50%;
+  border-radius: 8px;
+}
+
+.mortar {
+  width: 50%;
+  border-radius: 50%;
+}
